@@ -1,0 +1,1 @@
+La valeur val sert à initialiser des valeurs qu'on ne peut modifier apres leur initialisation et var sert a initialiser des valeurs qu'on peut changer après leurs initialisation.
